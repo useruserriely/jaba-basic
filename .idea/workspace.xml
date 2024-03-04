@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa35fad2-7246-46c0-a826-dd9d2b7b32da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Day1/Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/ConditionChoose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/ConditionExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/ConditionExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/ConditionExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/ConditionExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/OperatorExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/VariableExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/VariableExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/print.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +49,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Condition.executor": "Debug",
+    "Application.ConditionChoose.executor": "Run",
+    "Application.ConditionExam1.executor": "Run",
+    "Application.ConditionExam2.executor": "Run",
+    "Application.ConditionExam3.executor": "Run",
+    "Application.ConditionExam4.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Operator.executor": "Run",
+    "Application.OperatorExam1.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.VariableExam1.executor": "Run",
+    "Application.VariableExam2.executor": "Run",
+    "Application.print.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -63,5 +88,21 @@
       <updated>1709512365360</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day1/Condition.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day1/Condition.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
